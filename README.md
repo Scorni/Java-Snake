@@ -24,4 +24,4 @@ Les règles sont simples , restez en vie et avoir le plus de points à la fin de
 - Si le serpent percute un mur , la partie se termine pour lui mais son cadavre reste à l'endroit de l'impact et forme un mur supplémentaires mais le joueur conserve les points recoltées tout au long de sa vie.
 - Si le serpent percute un adversaire , le serpent meurt et son cadavre disparait du terrain de jeu. Dans ce cas ci le joueur perd tout ses points.
 - Si un serpent ayant 3 de tailles ( taille à la creation ) recupère un bonus lui retirant 3 de tailles , le serpent meurt et garde ses points.
-
+- Tout ceci sera affiché dans une interface GUI
