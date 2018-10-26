@@ -10,6 +10,7 @@
 
 Les règles sont simples , restez en vie et avoir le plus de points à la fin de la partie.
 
+- Une partie se joue a deux joueurs.
 - Une partie dure 2 minutes.
 - La taille du serpent est de 3. ( unité a définir )
 - Un bonus apparait aléatoirement sur le terrain de jeu toutes les 8 à 12 secondes.
